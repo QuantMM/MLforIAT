@@ -30,10 +30,10 @@ Updates: Jan - Feb, 2020
   - To avoid overfitting and increase generalizability
 
 - How to report/summarize results:
-  (1) 4 Boxplots for four different models generated from 100 different random splits across training/validation sets (like in [Fig1](https://github.com/QuantMM/MLforIAT/blob/master/Diff.png))
-  (2) How to tune a NN model in a paragraph: # of nodes, # of learning epoch, regularization (L1/L2), types of activation fuctions
+  - (1) 4 Boxplots for four different models generated from 100 different random splits across training/validation sets (like in [Fig1](https://github.com/QuantMM/MLforIAT/blob/master/Diff.png))
+  - (2) How to tune a NN model in a paragraph: # of nodes, # of learning epoch, regularization (L1/L2), types of activation fuctions
       (Note. Number of neurons (in each layer)? determined by the complexities of the function that is being approximated or the decision boundaries that are being implemented. See [Stathakis (2009, p.2134)](https://www.tandfonline.com/doi/full/10.1080/01431160802549278), [Neural Network Design (pp.22-11, 22-12)](http://hagan.okstate.edu/NNDesign.pdf), and [Bergstra and Bengio (2012)](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf))
-  (3) A table summarizes RMSE and Corr for four different models considered across training/validation sets (in terms of median-MSE, smallest-MSE models and the average of 100 models)
-  (4) Count top 20 most meaningful predictors for four models
-  (5) A table summarizes T-test results for four models showing t-values/p-values
-  (6) (most important) A histogram shows how many optimized IDs in each condition
+  - (3) A table summarizes RMSE and Corr for four different models considered across training/validation sets (in terms of median-MSE, smallest-MSE models and the average of 100 models)
+  - (4) Count top 20 most meaningful predictors for four models
+  - (5) A table summarizes T-test results for four models showing t-values/p-values
+  - (6) (most important) A histogram shows how many optimized IDs in each condition
