@@ -16,4 +16,5 @@ Updates
     - (1) across various data splitting percentages (from 70/30, 80/20, to 90-10 splits)
     - (2) using two machine learning techniques (Ridge and lasso)
     - (3) using either the change score or IAT.t2 as outcome
-- Model evaluation metrics: 
+- Model evaluation metrics:
+  - ![RMSE and Corr](https://github.com/QuantMM/MLforIAT/evaluation metrics.PNG)
