@@ -17,4 +17,5 @@ Updates
     - (2) using two machine learning techniques (Ridge and lasso)
     - (3) using either the change score or IAT.t2 as outcome
 - Model evaluation metrics:
-    ![RMSE and Corr](https://github.com/QuantMM/MLforIAT/blob/master/evaluation_metrics.PNG)
+  - [p. 1087 of Wu et al., 2018](https://dl.acm.org/doi/abs/10.1145/3209978.3210077)
+  - ![RMSE and Corr](https://github.com/QuantMM/MLforIAT/blob/master/evaluation_metrics.PNG)
