@@ -10,4 +10,5 @@ Author(s)
 
 Updates
 ----------
-- 2020-Feb-04: final decision on the outcome variable
+- 2020-Feb-04: final decision on the outcome variable and the baseline scores as a covariate through both a literature review and empirical study
+  - References: [Allison, 1990](https://www.jstor.org/stable/271083?seq=1#metadata_info_tab_contents), [Dalecki and Willits, 1991](https://www.tandfonline.com/doi/abs/10.1080/02732173.1991.9981960), [Vickers and Altman, 2001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121605/)
